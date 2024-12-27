@@ -1,0 +1,5 @@
+bin/
+.vcode/
+archstrap
+install.json
+
